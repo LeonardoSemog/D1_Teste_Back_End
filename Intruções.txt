@@ -1,0 +1,9 @@
+MVC Framework 4.5
+
+LocalDB
+Foi criado com o localDB do SQL
+	No meu PC, o LocalDB fica no caminho de instalação Padrao. Precisa alterar o caminho do AttachDbFilename, do Web.config para o local do LocalDB que irá executar o projeto
+AttachDBFilename=C:\Users\leona\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\MSSQLLocalDB\DB_APPD1.mdf;
+
+Foi utilizado JQuery, Bootstrap 3.0, DataAnnotation e EntityFramework
+
